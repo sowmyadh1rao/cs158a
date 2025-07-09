@@ -1,0 +1,12 @@
+Sent:(MY UUID) uuid=1293684f-234a-475f-95ce-1da1a6e1c77b, flag=0
+
+Received: uuid=0bdaf6ac-40b7-4f93-a0d4-37ece8b1a41c, flag=0, less, state=0
+Sent: uuid=1293684f-234a-475f-95ce-1da1a6e1c77b, flag=0
+
+Received: uuid=a6d3d3e1-2ac1-4520-a022-0c5ff7c31500, flag=0, greater, state=0
+Sent: uuid=a6d3d3e1-2ac1-4520-a022-0c5ff7c31500, flag=0
+
+Received: uuid=a6d3d3e1-2ac1-4520-a022-0c5ff7c31500, flag=1, greater, state=0
+Sent: uuid=a6d3d3e1-2ac1-4520-a022-0c5ff7c31500, flag=1
+
+ Leader is decided to a6d3d3e1-2ac1-4520-a022-0c5ff7c31500
